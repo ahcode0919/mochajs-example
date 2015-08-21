@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abaaac47-6c40-4b2a-9abd-a108a78a54b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/htmlFunctions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests.js" />
-      <change type="DELETED" beforePath="C:\Projects\MochaJSExample\js\app.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.html" afterPath="$PROJECT_DIR$/Test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/layout.jade" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/layout.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tests.js" afterPath="$PROJECT_DIR$/test/tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests.js" afterPath="$PROJECT_DIR$/tests.js" />
     </list>
     <ignored path="MochaJSExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +36,8 @@
       <file leaf-file-name="tests.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46363637">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.6337047">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -220,6 +212,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ZombieJSExample" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -489,14 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.730769">
@@ -505,10 +490,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46363637">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.6337047">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>

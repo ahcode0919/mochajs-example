@@ -1,4 +1,4 @@
-//When ran in browser should calls should be capitalized 'Should.equ....'
+//Note: When ran in-browser 'should' calls should be capitalized 'Should.equ....'
 
 describe('Basic Math Functions', function() {
     var testNumber;
