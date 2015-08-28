@@ -5,12 +5,16 @@
     <link href="http://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.css" rel="stylesheet" />
 </head>
 <body>
+
+<!--This is an implementation of the MochaJS html test runner certain slight modifications have to be made to the JS
+files for them to be 'browser compatible' -->
+
 <div id="mocha"></div>
 <script src="http://cdn.rawgit.com/jquery/jquery/2.1.4/dist/jquery.min.js"></script>
 <script src="http://cdn.rawgit.com/Automattic/expect.js/0.3.1/index.js"></script>
 <script src="http://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.js"></script>
 <script src="node_modules/should/should.js"></script>
-<script>mocha.setup('bdd')</script>
+<script>mocha.setup('bdd')</script><!-- Format that tests are structured/written in-->
 <script src="js/htmlFunctions.js"></script>
 <script src="tests.js"></script>
 <script>

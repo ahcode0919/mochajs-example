@@ -1,26 +1,32 @@
 //Note: When ran in-browser 'should' calls should be capitalized 'Should.equ....'
+//Run by running 'mocha test' in the terminal window
 
 describe('Basic Math Functions', function() {
     var testNumber;
+
+    //Runs before the tests are ran
     before(function() {
         testNumber = 0;
     });
 
+    //Runs after the tests are complete
     after(function() {
         console.log("Total tests: " + testNumber);
     });
 
+    //Runs before each individual test
     beforeEach(function() {
         testNumber++;
         console.log("Testing test number: " + testNumber);
     });
 
+    //Runs after each individual test
     afterEach(function(){
 
     });
 
     describe('Add()', function() {
-        it('should add to even numbers', function() {
+        it('should add to even numbers', function() { //It describes the individual test cases
             add(2,3).should.equal(5);
             add(10000, 500).should.equal(10500);
             add("5" , "7").should.equal(12);
