@@ -23,7 +23,7 @@ describe('Basic Math Functions', function() {
     });
 
     describe('Add()', function() {
-        it('should add to even numbers', function() {
+        it('should add two even numbers', function() {
             test.add(2,3).should.equal(5);
             test.add(10000, 500).should.equal(10500);
             test.add("5" , "7").should.equal(12);
@@ -52,7 +52,7 @@ describe('Basic Math Functions', function() {
     });
 
     describe('Multiply()', function() {
-        it('should multiple two numbers', function() {
+        it('should multiply two numbers', function() {
             test.multiply(56,23).should.equal(56*23);
             test.multiply("-2", "-2").should.equal(4);
             test.multiply(null, 5).should.equal(5);
