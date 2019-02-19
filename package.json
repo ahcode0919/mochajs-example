@@ -1,0 +1,30 @@
+{
+  "name": "mochajs-example",
+  "version": "1.0.0",
+  "description": "testing with mochajs example",
+  "main": "tests.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node": "^0.0.0",
+    "require": "^2.4.20",
+    "should": "^7.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahcode0919/mochajs-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahcode0919/mochajs-example/issues"
+  },
+  "homepage": "https://github.com/ahcode0919/mochajs-example#readme"
+}
