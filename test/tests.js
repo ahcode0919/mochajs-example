@@ -1,14 +1,10 @@
 /**
  * Created by ah901654 on 8/20/2015.
  */
-var test = require('../js/functions.js');
+const test = require('../js/functions.js');
 
-var should = require('Should');
-//require('../js/functions.js')();
-//module.exports.app = require('../js/functions.js');
-//console.log(module.exports.app);
+const should = require('Should');
 
-//console.log(add(1,1));
 describe('Basic Math Functions', function() {
     before(function() {
     });

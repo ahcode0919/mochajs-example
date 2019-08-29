@@ -8,11 +8,10 @@
   },
   "dependencies": {
     "node": "^0.0.0",
-    "require": "^2.4.20",
-    "should": "^7.0.4"
+    "should": "^7.1.1"
   },
   "devDependencies": {
-    "mocha": "^6.0.0"
+    "mocha": "^6.2.0"
   },
   "scripts": {
     "test": "mocha test"

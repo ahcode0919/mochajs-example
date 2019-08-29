@@ -48,4 +48,3 @@ exports.undefinedCheck = function(x){
         }
     }
 }
-
